@@ -1,6 +1,10 @@
 # HelpSite
 Revolutionizing Everyday Work
 
+# NextJs Site
+- Javascript
+- CSS
+
 ![Help-site](HS.PNG)
 
 
